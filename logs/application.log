@@ -1,0 +1,40 @@
+2023-04-15 00:02:11 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 00:02:11 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 00:02:44 INFO  AuthController:30 - calling register.html
+2023-04-15 00:05:14 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 00:05:14 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 00:05:34 INFO  AuthController:30 - calling register.html
+2023-04-15 00:05:55 INFO  AuthController:39 - calling Store UserMethod:Data going to Store-NAME:Klinton EMAIL:klintonece@gmail.com MOBILE NO:7550127370
+2023-04-15 00:05:56 INFO  AuthController:42 - Stored Successfully
+2023-04-15 00:18:04 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 00:18:05 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 00:18:16 INFO  AuthController:24 - Calling Homepage
+2023-04-15 00:18:59 INFO  AuthController:30 - calling register.html
+2023-04-15 00:19:05 INFO  AuthController:30 - calling register.html
+2023-04-15 00:23:37 INFO  AuthController:30 - calling register.html
+2023-04-15 00:57:43 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 00:57:44 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 00:59:34 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 00:59:35 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:00:31 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:00:31 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:01:58 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:01:58 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:05:20 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:05:20 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:14:53 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:14:53 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:15:15 INFO  AuthController:24 - Calling Homepage
+2023-04-15 01:15:21 INFO  AuthController:30 - calling register.html
+2023-04-15 01:15:39 INFO  AuthController:39 - calling Store UserMethod:Data going to Store-NAME:Johnson EMAIL:johnhari@gmail.com MOBILE NO:9841802632
+2023-04-15 01:15:39 INFO  AuthController:41 - Stored Successfully
+2023-04-15 01:16:15 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:16:15 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:16:38 INFO  AuthController:30 - calling register.html
+2023-04-15 01:16:58 INFO  AuthController:39 - calling Store UserMethod:Data going to Store-NAME:ContactIntent EMAIL:jose@gmail.com MOBILE NO:989898986565
+2023-04-15 01:16:58 INFO  AuthController:41 - Stored Successfully
+2023-04-15 01:19:04 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:19:04 INFO  RegLogThymleafApplication:20 - Starting RegLog Application
+2023-04-15 01:19:15 INFO  AuthController:30 - calling register.html
+2023-04-15 01:19:36 INFO  AuthController:39 - calling Store UserMethod:Data going to Store-NAME:Durga EMAIL:durga@gmail.com MOBILE NO:8745126325
+2023-04-15 01:19:36 INFO  AuthController:41 - Stored Successfully
