@@ -29,4 +29,10 @@ public class AuthServiceImpl implements AuthService {
         authRepository.save(registerUser);
         return "Stored Successfully";
     }
+
+    @Override
+    public RegisterUser getRegisterUser(String userEmail)
+    {
+        return authRepository.findByEmail(userEmail);
+    }
 }
